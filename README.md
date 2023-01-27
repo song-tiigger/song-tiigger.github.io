@@ -19,7 +19,7 @@
 
 http://www.naver.com
 
-[송티거 깃허브](song-tiigger.github.io)
+[송티거 깃허브](https://github.com/song-tiigger)
 
 [구글](http://www.google.com, 검색 사이트)
 
